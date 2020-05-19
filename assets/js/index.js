@@ -56,4 +56,4 @@ function extractDomain(url) {
   return domain;
 }
 
-var disqus_shortname = 'quangtt';
+var disqus_shortname = '';
